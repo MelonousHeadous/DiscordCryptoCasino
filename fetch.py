@@ -4,9 +4,9 @@ from data import *
 import threading
 
 
-NODE_URL = "http://127.0.0.1:YOUR_RPC_PORT"  # Enter port number for coins rpc port
-NODE_USER = "YOUR_USERNAME"
-NODE_PASSWORD = "YOUR_PASSWORD"
+NODE_URL = "http://127.0.0.1:10999"  # Enter port number for coins rpc port
+NODE_USER = "mhspdice"
+NODE_PASSWORD = "A2012adh!"
 
 # Makes rpc connection
 
